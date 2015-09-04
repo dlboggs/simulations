@@ -34,3 +34,6 @@ h2 {
 .user-menu .nav-item > a {
   color: #fff;
 }
+.panel.user-menu {
+    color: black;   
+}
