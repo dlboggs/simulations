@@ -1,0 +1,36 @@
+body {
+  color: #595959;
+  background: #226ceo;
+}
+a {
+  color: #0070a8;
+}
+h1 {
+  color: #226ceo;
+}
+h2 {
+  color: #4f4f4f;
+}
+.nav .nav-item a {
+  color: #595959;
+}
+#manage-accounts .account-details {
+  color: #595959;
+}
+.header-wrapper {
+  box-shadow: 10px 0 20px rgba(0, 0, 0, 0.75);
+}
+.header-main {
+  color: #ffffff;
+  background: #1b1b1b;
+  border-bottom: 5px solid #226ceo;
+}
+.user-menu {
+  background: #226ceo;
+}
+.grades .section-name {
+  color: #4f4f4f;
+}
+.user-menu .nav-item > a {
+  color: #fff;
+}
